@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/breadcrumb.ts"],"names":[],"mappings":"AAEA;IAAA;IAKA,CAAC;IAAD,iBAAC;AAAD,CALA,AAKC,IAAA","file":"breadcrumb.js","sourceRoot":"","sourcesContent":["import { Route } from \"@angular/router\";\n\nexport class Breadcrumb {\n    displayName: string;\n    terminal: boolean;\n    url: string;\n    route: Route | null;\n}\n"]}
