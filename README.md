@@ -1,5 +1,12 @@
 # Angular Breadcrumb
 
+## Pre installation
+
+Create a configuration file ".npmrc" in the root of the project to use this package with the content: 
+```
+registry=https://npm.pkg.github.com/roq3
+```
+
 ## Installation
 
 ```shell
