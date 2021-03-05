@@ -3,7 +3,7 @@
 ## Installation
 
 ```shell
-npm install angular-crumbs --save
+npm install @roq3/angular-crumbs@3.0.2 --save
 ```
 
 #### 1. Import the `BreadcrumbModule`
