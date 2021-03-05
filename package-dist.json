@@ -1,13 +1,13 @@
 {
-    "name": "angular-crumbs",
-    "version": "3.0.1",
+    "name": "@roq3/angular-crumbs",
+    "version": "3.0.2",
     "description": "A route-based Angular breadcrumb component and service. Allows breadcrumb descriptions to be set based on route data, or as the result of an API call.",
     "main": "bundles/angular-crumbs.umd.min.js",
     "module": "index.js",
     "typings": "index.d.ts",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/emilol/angular-crumbs.git"
+        "url": "git+https://github.com/roq3/angular-crumbs.git"
     },
     "keywords": [
         "angular",
@@ -17,9 +17,9 @@
     "author": "Emily Taylor",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/emilol/angular-crumbs/issues"
+        "url": "https://github.com/roq3/angular-crumbs/issues"
     },
-    "homepage": "https://github.com/emilol/angular-crumbs#readme",
+    "homepage": "https://github.com/roq3/angular-crumbs#readme",
     "peerDependencies": {
         "@angular/common": ">=2.0.0",
         "@angular/core": ">=2.0.0",
